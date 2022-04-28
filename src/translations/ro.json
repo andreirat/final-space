@@ -1,0 +1,117 @@
+{
+  "account": "Cont",
+  "personal_settings": "Setări Personale",
+  "notifications": "notificări",
+  "business": "afacere",
+  "settings": "setări",
+  "services": "servicii",
+  "profession": "profesie",
+  "availability": "disponibilitate",
+  "facilities": "facilităţi",
+  "other": "altele",
+  "contact_us": "contactează-ne",
+  "privacy_policy": "Politica de confidenţialitate",
+  "faq": "Întrebări frecvente",
+  "about": "despre",
+  "sign_out": "deloghează-te",
+  "password": "parolă",
+  "email": "email",
+  "edit_profile": "editează profilul",
+  "name": "nume",
+  "first_name": "Prenume",
+  "last_name": "Nume",
+  "future_bookings": "programări viitoare",
+  "past_bookings": "programări anterioare",
+  "dont_have_an_account": "Nu ai cont?",
+  "create_an_account": "Creează-ţi un cont.",
+  "sign_up": "Inregistrează-te.",
+  "your_message": "Mesajul tău...",
+  "allow": "permite",
+  "to_use_your_location": "să folosească locaţia ta",
+  "how_can_we_help": "Cu ce te putem ajuta?",
+  "hello": "bună",
+  "select": "selectează",
+  "location": "locaţie",
+  "tap_on": "Apasă pe",
+  "while_using": "Permiteţi în timpul utilizării aplicaţiei",
+  "is_waiting_for_you": "te așteaptă",
+  "titles": {
+    "sign_up_as_professional": "Listează-te ca profesionist",
+    "sign_up_on_salon": "Inregistrează-te pe Salon365",
+    "login_page": "Bună",
+    "your_bookings_list": "Lista programărilor tale",
+    "hello": "salut",
+    "no_bookings": "Nu există programări",
+    "next_booking": "Urmatoarea ta programare"
+  },
+  "subtitles": {
+    "manage_your_business": "Administrează-ţi afacerea",
+    "be_part_of_this_community": "Fii parte din această comunitate",
+    "welcome_back": "Bine ai revenit"
+  },
+  "buttons": {
+    "login": "Loghează-te",
+    "send_message": "Trimite mesajul",
+    "forgot_your_password": "Ai uitat parola",
+    "book_now": "Programează-te",
+    "upcoming": "viitoare",
+    "finished": "precedente",
+    "canceled": "anulate",
+    "navigate": "direcții spre locație",
+    "contact": "contactează",
+    "go_to_settings": "deschide setările",
+    "allow_location_usage": "Permite utilizarea locației",
+    "search_for_nearby_professionals": "caută profesioniști în apropiere"
+  },
+  "datetime": {
+    "at": "ora",
+    "today": "astăzi"
+  },
+  "empty_states": {
+    "my_bookings": {
+      "not_auth": "Aici este locul unde iți vei găsi toate programările efectuate.",
+      "no_bookings_today": "Nu ai programări pentru astăzi",
+      "no_upcoming_bookings": "Nu ai programări viitoare"
+    }
+  },
+  "messages": {
+    "thank_you": "Mulţumim!",
+    "we_ll_get_back_to_you_as_soon_as_possible": "Mesajul tău a ajuns deja la noi și îți vom răspunde în cel mai scurt timp.",
+    "we_use_your_location_reason": "Folosim locația ta pentru a găsi cei mai buni profesioniști în apropierea ta.",
+    "in_settings_follow_steps": "In Setari, urmeaza pasii urmatori:"
+  },
+  "faqItems": {
+    "one": {
+      "title": "Cât costă să folosești Salon365?",
+      "content": "Clienții pot folosi platforma 100% gratuit.\n\nProfesioniștii pot folosi funcționalitățile Salon365 Basic 100% gratuit, pentru totdeauna. În viitor, vom oferi funcționalități premium care vor fi opționale pentru profesioniști."
+    },
+    "two": {
+      "title": "Trebuie să am profilul publicat pentru a putea primi programări de la clienti?",
+      "content": "Da. Este important ca profilul tău să fie public, altfel clienții nu vor putea să-l găsească în căutări și nici să-l acceseze în mod direct."
+    },
+    "three": {
+      "title": "Îmi pot promova profilul clienților mei pentru a se programa?",
+      "content": "Din momentul în care profilul tău este public, poți să-l promovezi în rândul clienților pentru a se programa la serviciile oferite de tine, sau ai și tu posibilitatea să le creezi programări clienților accesând pagina de calendar. În plus, îți oferim un set de unelte pentru a te ajuta în promovarea profilului tău."
+    },
+    "four": {
+      "title": "Trimiteți notificari?",
+      "content": "Trimitem email-uri, SMS-uri si push notifications atât profesioniștilor, cât și clienților pentru fiecare programare creată sau anulată, dar și pentru alte evenimente. Vezi setările de notificări din profilul tău pentru mai multe detalii."
+    },
+    "five": {
+      "title": "Clienții mei uită de programări. Cum mă ajută platforma?",
+      "content": "Încercăm să-ți protejăm timpul prin trimiterea unei notificări, cu minim 3 ore înainte de a începe programarea, pentru a le reaminti unde și la ce oră trebuie să se prezinte pentru a beneficia de servicii tale. Numărul de ore poate fi modificat de către tine din pagina de setări."
+    },
+    "six": {
+      "title": "Clienții mei uită și nu se prezintă la programări",
+      "content": "Vom oferi în curând posibilitatea de a te proteja împotriva neprezentărilor sau a întârzierilor din partea clienților, prin a bloca o sumă de bani pentru serviciile oferite de către tine, în funcție de caz. Vom oferi mai multe detalii la timpul potrivit."
+    },
+    "seven": {
+      "title": "Clienții se pot programa în timpul meu liber?",
+      "content": "Le oferim clienților posibilitatea să se programeze direct în calendarul tău, doar în orele disponibile. Luăm în considerare vacanțele tale, programul de lucru recurent, dar și programările existente pentru a determina orele tale disponibile."
+    },
+    "eight": {
+      "title": "Pot aproba manual programările care sunt create de către clienți?",
+      "content": "În viitorul apropiat, vom oferi și posibilitatea de a aproba manual programările. Momentan, toate programările create în mod direct de clienți sunt confirmate automat de către sistem, iar în cazul în care dorești să modifici o programare sau să o anulezi, o poți face din calendarul tău, iar noi vom anunța clientul de schimbările efectuate."
+    }
+  }
+}

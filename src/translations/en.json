@@ -1,0 +1,113 @@
+{
+  "account": "account",
+  "personal_settings": "personal settings",
+  "notifications": "notifications",
+  "business": "business",
+  "settings": "settings",
+  "services": "services",
+  "profession": "profession",
+  "availability": "availability",
+  "facilities": "facilities",
+  "other": "other",
+  "contact_us": "contact us",
+  "privacy_policy": "privacy policy",
+  "faq": "FAQ",
+  "about": "about",
+  "edit_profile": "edit profile",
+  "sign_out": "sign out",
+  "password": "password",
+  "email": "password",
+  "name": "name",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "allow": "allow",
+  "to_use_your_location": "to use your location",
+  "future_bookings": "future bookings",
+  "past_bookings": "past bookings",
+  "dont_have_an_account": "Don't have an account?",
+  "sign_up": "Sign up.",
+  "your_message": "Your message...",
+  "how_can_we_help": "How can we help?",
+  "hello": "hello",
+  "is_waiting_for_you": "is waiting for you",
+  "titles": {
+    "sign_up_as_professional": "Sign up as a professional",
+    "sign_up_on_salon": "Sign up on Salon365",
+    "login_page": "hey there",
+    "your_bookings_list": "Your bookings list",
+    "hello": "hello",
+    "no_bookings": "No bookings",
+    "next_booking": "Your next booking"
+  },
+  "subtitles": {
+    "manage_your_business": "Manage your business",
+    "be_part_of_this_community": "Be part of this community",
+    "welcome_back": "Welcome back"
+  },
+  "buttons": {
+    "login": "login",
+    "send_message": "Send message",
+    "forgot_your_password": "Forgot your password",
+    "book_now": "Book now",
+    "upcoming": "upcoming",
+    "finished": "finished",
+    "canceled": "canceled",
+    "go_to_settings": "go to settings",
+    "navigate": "navigate to location",
+    "contact": "contact",
+    "allow_location_usage": "Allow permission",
+    "search_for_nearby_professionals": "search for nearby professionals"
+
+  },
+  "datetime": {
+    "at": "at",
+    "today": "today"
+  },
+  "empty_states": {
+    "my_bookings": {
+      "not_auth": "Here is the place where you will see all your bookings.",
+      "no_bookings_today": "You have no bookings today",
+      "no_upcoming_bookings": "You don't have upcoming bookings"
+    }
+  },
+  "messages": {
+    "thank_you": "Thank you!",
+    "we_ll_get_back_to_you_as_soon_as_possible": "Your message has been sent and we will answer as soon as we can.",
+    "we_use_your_location_reason": "We use your location to find the best professionals near you.",
+    "in_settings_follow_steps": "In Settings, follow these steps:"
+  },
+  "faqItems": {
+    "one": {
+      "title": "How much does Salon365 cost?",
+      "content": "Clients can use the app 100% free.\n\nProfessionals can user the Salon365 Basic plan features 100% free forever. In the future, we will offer premium features which will be optional for professionals."
+    },
+    "two": {
+      "title": "Does my profile need to be published in order to receive bookings from clients?",
+      "content": "Yes. It's important that your profile is published, otherwise your clients won't be able to find in the searches, nor access it directly through your profile link."
+    },
+    "three": {
+      "title": "Can I promote my profile towards clients?",
+      "content": "Once your profile is published, you can promote it to your clients for them to book themselves to your services. You too have the option to add bookings to your clients by accessing the calendar page. In addition, we offer you a complete set of tools to help you promote your profile."
+    },
+    "four": {
+      "title": "Does the app send notifications?",
+      "content": "We send emails, SMS messages and push notifications to professionals, as well as to clients, for every created or cancelled booking and other important events. See the notification settings in your profile for more details."
+    },
+    "five": {
+      "title": "My clients forget about their bookings. How do you help?",
+      "content": "We strive to protect your time by sending a notification to your clients, at least 3 hours before a booking starts, to remind them where and at what time they need to show up to benefit from your services. You can change the number of hours in your profile settings page."
+    },
+    "six": {
+      "title": "My clients forget and don't show up to bookings",
+      "content": "We will soon offer you the possibility to protect yourself from no-shows or late arrivals, by blocking an amount of money for the services you offer, on a case by case basis. We will give more details when the time comes."
+    },
+    "seven": {
+      "title": "Can clients book themselves in my free time?",
+      "content": "We offer clients the possibility to create bookings directly in you calendar, but only in your available time. We take into account you vacations, your recurrent working schedule and also your existing bookings to determine your available time."
+    },
+    "eight": {
+      "title": "Can I manually approve bookings added by my clients?",
+      "content": "In the near future, we will offer the possibility to manually approve bookings. At the moment, all bookings created directly by clients are confirmed automatically by our system, but in case you want to modify or cancel a booking, you can do so on the calendar page and we will notify your client of the changes."
+    }
+  }
+}
